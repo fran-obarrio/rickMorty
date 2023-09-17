@@ -11,3 +11,7 @@ This project serves as a hands-on example of an endless `UICollectionView` integ
 ## Why this project? 🤔
 If you're looking to understand how to create an endless scrollable collection view with delightful animations or simply want to understand the MVVM pattern better, this project is a perfect starting point. Dive in to see best practices, neat tricks, and efficient code structures!
 
+## Video Example 
+<video width="320" height="240" controls>
+  <source src="RickMortyVideo.mov" type="video/mp4">
+</video>
