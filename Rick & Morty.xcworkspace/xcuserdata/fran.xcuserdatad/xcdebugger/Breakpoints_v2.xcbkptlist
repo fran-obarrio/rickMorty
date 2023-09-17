@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DD984C7D-8B7E-4A03-9676-719411C8EF73"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE483341-2A93-41F0-8144-34271A5BBA64"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick &amp; Morty/Views/CharacterListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BE483341-2A93-41F0-8144-34271A5BBA64 - ab6f2133fc9b388e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick___Morty.CharacterListViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Rick &amp; Morty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fran/Desktop/iOS/Challenges/CloudX/Rick%20&amp;%20Morty/Rick%20&amp;%20Morty/Views/CharacterListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "BE483341-2A93-41F0-8144-34271A5BBA64 - ab6f2133fc9b380a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick___Morty.CharacterListViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Rick &amp; Morty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fran/Desktop/iOS/Challenges/CloudX/Rick%20&amp;%20Morty/Rick%20&amp;%20Morty/Views/CharacterListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "BE483341-2A93-41F0-8144-34271A5BBA64 - ab6f2133fc9b3bc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick___Morty.CharacterListViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Rick &amp; Morty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fran/Desktop/iOS/Challenges/CloudX/Rick%20&amp;%20Morty/Rick%20&amp;%20Morty/Views/CharacterListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "392">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36B7AC7A-FC80-47B9-8BE2-C3281CE71E28"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick &amp; Morty/Views/CharacterListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "init(viewModel:coordinator:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64495850-5AAD-4BEE-A36E-039FB37B06FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick &amp; Morty/Views/CharacterDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "init(viewModel:coordinator:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "64495850-5AAD-4BEE-A36E-039FB37B06FB - 384b7b12b2440d0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick___Morty.CharacterDetailViewController.init(viewModel: Rick___Morty.CharacterDetailViewModel, coordinator: Rick___Morty.AppCoordinator) -&gt; Rick___Morty.CharacterDetailViewController"
+                  moduleName = "Rick &amp; Morty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fran/Desktop/iOS/Challenges/CloudX/Rick%20&amp;%20Morty/Rick%20&amp;%20Morty/Views/CharacterDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "460">
+               </Location>
+               <Location
+                  uuid = "64495850-5AAD-4BEE-A36E-039FB37B06FB - 384b7b12b2440d2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick___Morty.CharacterDetailViewController.init(viewModel: Rick___Morty.CharacterDetailViewModel, coordinator: Rick___Morty.AppCoordinator) -&gt; Rick___Morty.CharacterDetailViewController"
+                  moduleName = "Rick &amp; Morty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fran/Desktop/iOS/Challenges/CloudX/Rick%20&amp;%20Morty/Rick%20&amp;%20Morty/Views/CharacterDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "460">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F736DC46-0070-490F-8C9B-2A8AAD54136D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick &amp; Morty/Views/CharacterDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "setupUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3719073C-F9DF-4162-904F-6A8EE8EEA996"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick &amp; Morty/Models/Services/Character.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E56584F-3F9A-4BE2-8CC2-96EF96B270DB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick &amp; Morty/Views/CharacterListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "tapFavorite(rowID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "837CEC6A-1163-4356-AB2D-E5C119B0E508"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick &amp; Morty/Views/Cells/CustomCharacterCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "didTapFavoriteButton()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F149BA61-3724-4F85-BC61-7A2ED1AE34E3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick &amp; Morty/Views/CharacterListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "tapFavorite(rowID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5EA4FE09-F6C6-4FA7-9050-F969BD20781E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick &amp; Morty/ViewModels/CharacterListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "toggleFavorite(character:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5EA4FE09-F6C6-4FA7-9050-F969BD20781E - 91deee51ebd747c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick___Morty.CharacterListViewModel.toggleFavorite(character: Rick___Morty.Character) -&gt; ()"
+                  moduleName = "Rick &amp; Morty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fran/Desktop/iOS/Challenges/CloudX/Rick%20&amp;%20Morty/Rick%20&amp;%20Morty/ViewModels/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "676">
+               </Location>
+               <Location
+                  uuid = "5EA4FE09-F6C6-4FA7-9050-F969BD20781E - 91deee51ebd747c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick___Morty.CharacterListViewModel.toggleFavorite(character: Rick___Morty.Character) -&gt; ()"
+                  moduleName = "Rick &amp; Morty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fran/Desktop/iOS/Challenges/CloudX/Rick%20&amp;%20Morty/Rick%20&amp;%20Morty/ViewModels/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "720">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6825A703-B8DC-48A4-89A1-13770F5D4758"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick &amp; Morty/ViewModels/CharacterListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "toggleFavorite(character:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6825A703-B8DC-48A4-89A1-13770F5D4758 - 91deee51ebd7586e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick___Morty.CharacterListViewModel.toggleFavorite(character: Rick___Morty.Character) -&gt; ()"
+                  moduleName = "Rick &amp; Morty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fran/Desktop/iOS/Challenges/CloudX/Rick%20&amp;%20Morty/Rick%20&amp;%20Morty/ViewModels/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "6825A703-B8DC-48A4-89A1-13770F5D4758 - 91deee51ebd7586e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick___Morty.CharacterListViewModel.toggleFavorite(character: Rick___Morty.Character) -&gt; ()"
+                  moduleName = "Rick &amp; Morty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fran/Desktop/iOS/Challenges/CloudX/Rick%20&amp;%20Morty/Rick%20&amp;%20Morty/ViewModels/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "408">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36529A48-CBAA-4CD2-AA36-50EE8202B6EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick &amp; Morty/ViewModels/CharacterListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "toggleFavorite(character:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "36529A48-CBAA-4CD2-AA36-50EE8202B6EF - 91deee51ebd747a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick___Morty.CharacterListViewModel.toggleFavorite(character: Rick___Morty.Character) -&gt; ()"
+                  moduleName = "Rick &amp; Morty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fran/Desktop/iOS/Challenges/CloudX/Rick%20&amp;%20Morty/Rick%20&amp;%20Morty/ViewModels/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "36529A48-CBAA-4CD2-AA36-50EE8202B6EF - 91deee51ebd747a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick___Morty.CharacterListViewModel.toggleFavorite(character: Rick___Morty.Character) -&gt; ()"
+                  moduleName = "Rick &amp; Morty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fran/Desktop/iOS/Challenges/CloudX/Rick%20&amp;%20Morty/Rick%20&amp;%20Morty/ViewModels/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "460">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

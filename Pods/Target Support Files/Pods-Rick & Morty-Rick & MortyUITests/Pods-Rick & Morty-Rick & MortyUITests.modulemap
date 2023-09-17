@@ -1,0 +1,6 @@
+framework module Pods_Rick___Morty_Rick___MortyUITests {
+  umbrella header "Pods-Rick & Morty-Rick & MortyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

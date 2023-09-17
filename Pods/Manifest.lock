@@ -1,0 +1,35 @@
+PODS:
+  - lottie-ios (2.5.0)
+  - SDWebImage (5.15.6):
+    - SDWebImage/Core (= 5.15.6)
+  - SDWebImage/Core (5.15.6)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - lottie-ios (from `https://github.com/airbnb/lottie-ios.git`, tag `2.5.0`)
+  - SDWebImage
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+    - SnapKit
+
+EXTERNAL SOURCES:
+  lottie-ios:
+    :git: https://github.com/airbnb/lottie-ios.git
+    :tag: 2.5.0
+
+CHECKOUT OPTIONS:
+  lottie-ios:
+    :git: https://github.com/airbnb/lottie-ios.git
+    :tag: 2.5.0
+
+SPEC CHECKSUMS:
+  lottie-ios: d699fdee68d7b63e721d949388b015fef1aaa4ac
+  SDWebImage: d47d81bea8a77187896b620dc79c3c528e8906b9
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: e5dd920151bb8cb885b94dd62766067518c770c0
+
+COCOAPODS: 1.12.1
