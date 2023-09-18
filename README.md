@@ -1,12 +1,12 @@
 # rickMorty 🚀
 > Rick Morty Endless CollectionView
 
-This project serves as a hands-on example of an endless `UICollectionView` integrated with fantastic [Lottie animations](https://github.com/airbnb/lottie-ios). Designed with a clean and maintainable approach, it implements the MVVM architectural pattern, ensuring scalability and ease of testing.
+This project serves as a hands-on example of an endless `UICollectionView` integrated with fantastic [Lottie animations](https://github.com/airbnb/lottie-ios). Designed with a clean and maintainable approach, it implements the MVVM-C architectural pattern, ensuring scalability and ease of testing.
 
 ## Features 🌟
 - **Endless Scrolling**: Enjoy a seamless browsing experience with endless scrolling in the collection view.
 - **Lottie Animations**: Experience smooth and visually appealing animations powered by Lottie.
-- **MVVM Pattern**: Structured using the Model-View-ViewModel (MVVM) pattern, ensuring a separation of logic and view.
+- **MVVM-C Pattern**: Structured using the Model-View-ViewModel (MVVM) pattern, ensuring a separation of logic and view + Coordinator Pattern
 
 ## Why this project? 🤔
 If you're looking to understand how to create an endless scrollable collection view with delightful animations or simply want to understand the MVVM pattern better, this project is a perfect starting point. Dive in to see best practices, neat tricks, and efficient code structures!
